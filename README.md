@@ -1,19 +1,23 @@
-# Bank Analysis Dashboard
+# Tata Data Visualization - Forage Virtual Internship
 
 ##  About This Project
-Analysis of Bank and Credit-Debit data using Excel, Power BI and Tableau.
+Completed Tata Group's Data Visualization Virtual Internship on Forage.
 
-##  Tools Used
-- Microsoft Excel
+## What I Did
+- Studied Time-Series Analysis method
+- Completed assessment quiz on the concept
+- Created 4 interactive Power BI visualizations
+- Answered 8 business questions asked by CEO & CMO
+- Recorded a video presentation presenting insights to leadership
+
+## Tools Used
 - Power BI
-- Tableau
-- SQL
+- Microsoft Excel
 
-##  Files Included
-- Bank Data Analytics Dashboard (Excel)
-- Debit and Credit Banking Data (Excel)
-- Power BI Dashboards (.pbix)
-- Tableau Dashboards (.twbx)
-- SQL Queries
+## Key Skills Demonstrated
+- Data Visualization
+- Business Storytelling
+- Executive Presentation
+- Time-Series Analysis
 
-##Samarth Borse
+##  Samarth Borse
